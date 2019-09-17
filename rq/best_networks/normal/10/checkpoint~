@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/afo214/tensorflow/newsvendor/rq/saved_networks/normal/10/model-3100001"
+all_model_checkpoint_paths: "/home/afo214/tensorflow/newsvendor/rq/saved_networks/normal/10/model-3100001"
